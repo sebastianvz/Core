@@ -11,5 +11,7 @@ namespace DTOs
         public string Password { get; set; }
         public int? IdPeson { get; set; }
         public string Ditalfinger { get; set; }
+
+        public personDTO person { get; set; }
     }
 }

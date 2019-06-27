@@ -16,9 +16,13 @@ namespace Reglas
 
         public void Save(userDTO dto)
         {
-            _service.Save(dto);
+            //_service.Save(dto);
         }
 
+        public List<userDTO> GetAll()
+        {
+            return _service.Get();
+        }
 
     }
 }

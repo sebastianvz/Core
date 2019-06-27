@@ -17,6 +17,8 @@ namespace Middelware
 
             service.AddScoped<IuserService, userService>();
             service.AddScoped<IUserRule, UserRule>();
+            service.AddScoped<IInclusion, Inclusion>();
+            service.AddScoped<IUserRule, UserRule>();
 
             return service;
         }

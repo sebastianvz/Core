@@ -19,4 +19,3 @@ C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\DatosCore\obj\Debu
 C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\DatosCore\obj\Debug\netcoreapp2.2\DatosCore.AssemblyInfo.cs
 C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\DatosCore\obj\Debug\netcoreapp2.2\DatosCore.dll
 C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\DatosCore\obj\Debug\netcoreapp2.2\DatosCore.pdb
-C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\DatosCore\obj\Debug\netcoreapp2.2\DatosCore.csprojAssemblyReference.cache

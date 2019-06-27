@@ -6,11 +6,17 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="8.0.0" />
+    <PackageReference Include="System.Linq" Version="4.3.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\DatosCore\DatosCore.csproj" />
     <ProjectReference Include="..\DTOs\DTOs.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Fabrica\" />
+    <Folder Include="Inclusion\" />
   </ItemGroup>
 
 </Project>

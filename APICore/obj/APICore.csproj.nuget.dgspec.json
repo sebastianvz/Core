@@ -68,6 +68,10 @@
               "version": "[2.2.0, )",
               "autoReferenced": true
             },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[4.0.1, )"
@@ -373,6 +377,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [

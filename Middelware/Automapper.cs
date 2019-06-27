@@ -8,14 +8,13 @@ namespace Middelware
 {
     public class Automapper
     {
-        void init()
+        public static void Configure()
         {
             Mapper.Initialize(config =>
             {
                 //inversion de control
                 config.CreateMap<User, userDTO>().ReverseMap();
-            }
-            );
+            });
         }
     }
 }

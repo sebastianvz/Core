@@ -74,7 +74,7 @@ namespace DatosCore
                     .HasMaxLength(100)
                     .IsUnicode(false);
 
-                entity.HasOne(d => d.IdPesonNavigation)
+                entity.HasOne(d => d.person)
                     .WithMany(p => p.User)
                     .HasForeignKey(d => d.IdPeson)
                     .HasConstraintName("FK_user_person");

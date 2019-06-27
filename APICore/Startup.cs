@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using Middelware;
 using Swashbuckle.AspNetCore.Swagger;
 
 namespace APICore
@@ -34,9 +35,12 @@ namespace APICore
             }));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.Configure<IISOptions>(options => options.ForwardClientCertificate = false);
+
+            services.InitializeInjecciton(Configuration);
+
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new Info { Title = "Ticket Evento API", Version = "V1" });
+                c.SwaggerDoc("v1", new Info { Title = "Core API", Version = "V1" });
             });
 
         }
@@ -55,6 +59,7 @@ namespace APICore
             }
 
             ConfigureSwagger(app, env);
+            Automapper.Configure();
 
             app.UseCors("CorsPolicy");
             app.UseHttpsRedirection();

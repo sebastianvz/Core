@@ -11,6 +11,6 @@ namespace DatosCore.Models
         public int? IdPeson { get; set; }
         public string Ditalfinger { get; set; }
 
-        public Person IdPesonNavigation { get; set; }
+        public Person person { get; set; }
     }
 }
