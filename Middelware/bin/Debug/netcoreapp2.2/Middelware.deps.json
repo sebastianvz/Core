@@ -10,7 +10,9 @@
         "dependencies": {
           "AutoMapper": "8.0.0",
           "DTOs": "1.0.0",
-          "DatosCore": "1.0.0"
+          "DatosCore": "1.0.0",
+          "Reglas": "1.0.0",
+          "ServiciosRepositorio": "1.0.0"
         },
         "runtime": {
           "Middelware.dll": {}
@@ -526,6 +528,24 @@
         "runtime": {
           "DTOs.dll": {}
         }
+      },
+      "Reglas/1.0.0": {
+        "dependencies": {
+          "ServiciosRepositorio": "1.0.0"
+        },
+        "runtime": {
+          "Reglas.dll": {}
+        }
+      },
+      "ServiciosRepositorio/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "8.0.0",
+          "DTOs": "1.0.0",
+          "DatosCore": "1.0.0"
+        },
+        "runtime": {
+          "ServiciosRepositorio.dll": {}
+        }
       }
     }
   },
@@ -926,6 +946,16 @@
       "sha512": ""
     },
     "DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Reglas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiciosRepositorio/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

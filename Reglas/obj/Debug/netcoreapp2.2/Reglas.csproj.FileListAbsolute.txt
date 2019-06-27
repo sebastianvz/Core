@@ -1,0 +1,16 @@
+C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\Reglas\bin\Debug\netcoreapp2.2\Reglas.deps.json
+C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\Reglas\bin\Debug\netcoreapp2.2\Reglas.dll
+C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\Reglas\bin\Debug\netcoreapp2.2\Reglas.pdb
+C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\Reglas\bin\Debug\netcoreapp2.2\DatosCore.dll
+C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\Reglas\bin\Debug\netcoreapp2.2\DTOs.dll
+C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\Reglas\bin\Debug\netcoreapp2.2\ServiciosRepositorio.dll
+C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\Reglas\bin\Debug\netcoreapp2.2\ServiciosRepositorio.pdb
+C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\Reglas\bin\Debug\netcoreapp2.2\DatosCore.pdb
+C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\Reglas\bin\Debug\netcoreapp2.2\DTOs.pdb
+C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\Reglas\obj\Debug\netcoreapp2.2\Reglas.csprojAssemblyReference.cache
+C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\Reglas\obj\Debug\netcoreapp2.2\Reglas.csproj.CoreCompileInputs.cache
+C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\Reglas\obj\Debug\netcoreapp2.2\Reglas.AssemblyInfoInputs.cache
+C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\Reglas\obj\Debug\netcoreapp2.2\Reglas.AssemblyInfo.cs
+C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\Reglas\obj\Debug\netcoreapp2.2\Reglas.csproj.CopyComplete
+C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\Reglas\obj\Debug\netcoreapp2.2\Reglas.dll
+C:\Users\Desrrollo2Matipos\Source\Github\DigitalPersonaEFCore\Reglas\obj\Debug\netcoreapp2.2\Reglas.pdb
