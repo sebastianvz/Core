@@ -1,0 +1,185 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Desrrollo2Matipos\\Source\\Github\\DigitalPersonaEFCore\\ServiciosRepositorio\\ServiciosRepositorio.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Desrrollo2Matipos\\Source\\Github\\DigitalPersonaEFCore\\DatosCore\\DatosCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Desrrollo2Matipos\\Source\\Github\\DigitalPersonaEFCore\\DatosCore\\DatosCore.csproj",
+        "projectName": "DatosCore",
+        "projectPath": "C:\\Users\\Desrrollo2Matipos\\Source\\Github\\DigitalPersonaEFCore\\DatosCore\\DatosCore.csproj",
+        "packagesPath": "C:\\Users\\Desrrollo2Matipos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Desrrollo2Matipos\\Source\\Github\\DigitalPersonaEFCore\\DatosCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Desrrollo2Matipos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.11, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Desrrollo2Matipos\\Source\\Github\\DigitalPersonaEFCore\\DTOs\\DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Desrrollo2Matipos\\Source\\Github\\DigitalPersonaEFCore\\DTOs\\DTOs.csproj",
+        "projectName": "DTOs",
+        "projectPath": "C:\\Users\\Desrrollo2Matipos\\Source\\Github\\DigitalPersonaEFCore\\DTOs\\DTOs.csproj",
+        "packagesPath": "C:\\Users\\Desrrollo2Matipos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Desrrollo2Matipos\\Source\\Github\\DigitalPersonaEFCore\\DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Desrrollo2Matipos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Desrrollo2Matipos\\Source\\Github\\DigitalPersonaEFCore\\ServiciosRepositorio\\ServiciosRepositorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Desrrollo2Matipos\\Source\\Github\\DigitalPersonaEFCore\\ServiciosRepositorio\\ServiciosRepositorio.csproj",
+        "projectName": "ServiciosRepositorio",
+        "projectPath": "C:\\Users\\Desrrollo2Matipos\\Source\\Github\\DigitalPersonaEFCore\\ServiciosRepositorio\\ServiciosRepositorio.csproj",
+        "packagesPath": "C:\\Users\\Desrrollo2Matipos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Desrrollo2Matipos\\Source\\Github\\DigitalPersonaEFCore\\ServiciosRepositorio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Desrrollo2Matipos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Desrrollo2Matipos\\Source\\Github\\DigitalPersonaEFCore\\DatosCore\\DatosCore.csproj": {
+                "projectPath": "C:\\Users\\Desrrollo2Matipos\\Source\\Github\\DigitalPersonaEFCore\\DatosCore\\DatosCore.csproj"
+              },
+              "C:\\Users\\Desrrollo2Matipos\\Source\\Github\\DigitalPersonaEFCore\\DTOs\\DTOs.csproj": {
+                "projectPath": "C:\\Users\\Desrrollo2Matipos\\Source\\Github\\DigitalPersonaEFCore\\DTOs\\DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\Middelware\bin\Debug\netcoreapp2.2\Middelware.deps.json
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\Middelware\bin\Debug\netcoreapp2.2\Middelware.dll
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\Middelware\bin\Debug\netcoreapp2.2\Middelware.pdb
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\Middelware\obj\Debug\netcoreapp2.2\Middelware.csprojAssemblyReference.cache
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\Middelware\obj\Debug\netcoreapp2.2\Middelware.csproj.CoreCompileInputs.cache
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\Middelware\obj\Debug\netcoreapp2.2\Middelware.AssemblyInfoInputs.cache
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\Middelware\obj\Debug\netcoreapp2.2\Middelware.AssemblyInfo.cs
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\Middelware\obj\Debug\netcoreapp2.2\Middelware.dll
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\Middelware\obj\Debug\netcoreapp2.2\Middelware.pdb
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\Middelware\bin\Debug\netcoreapp2.2\DatosCore.dll
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\Middelware\bin\Debug\netcoreapp2.2\DTOs.dll
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\Middelware\bin\Debug\netcoreapp2.2\DatosCore.pdb
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\Middelware\bin\Debug\netcoreapp2.2\DTOs.pdb
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\Middelware\obj\Debug\netcoreapp2.2\Middelware.csproj.CopyComplete

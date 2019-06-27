@@ -1,0 +1,11 @@
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\DatosCore\bin\Debug\netcoreapp2.2\DatosCore.deps.json
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\DatosCore\bin\Debug\netcoreapp2.2\DatosCore.dll
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\DatosCore\obj\Debug\netcoreapp2.2\DatosCore.csproj.CoreCompileInputs.cache
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\DatosCore\obj\Debug\netcoreapp2.2\DatosCore.AssemblyInfoInputs.cache
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\DatosCore\obj\Debug\netcoreapp2.2\DatosCore.AssemblyInfo.cs
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\DatosCore\obj\Debug\netcoreapp2.2\DatosCore.csprojAssemblyReference.cache
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\DatosCore\bin\Debug\netcoreapp2.2\DatosCore.runtimeconfig.json
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\DatosCore\bin\Debug\netcoreapp2.2\DatosCore.runtimeconfig.dev.json
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\DatosCore\bin\Debug\netcoreapp2.2\DatosCore.pdb
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\DatosCore\obj\Debug\netcoreapp2.2\DatosCore.dll
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\DatosCore\obj\Debug\netcoreapp2.2\DatosCore.pdb

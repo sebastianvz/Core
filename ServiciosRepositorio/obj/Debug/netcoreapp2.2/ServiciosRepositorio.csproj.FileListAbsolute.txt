@@ -1,0 +1,11 @@
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\ServiciosRepositorio\bin\Debug\netcoreapp2.2\ServiciosRepositorio.deps.json
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\ServiciosRepositorio\bin\Debug\netcoreapp2.2\ServiciosRepositorio.dll
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\ServiciosRepositorio\bin\Debug\netcoreapp2.2\DatosCore.dll
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\ServiciosRepositorio\bin\Debug\netcoreapp2.2\DTOs.dll
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\ServiciosRepositorio\bin\Debug\netcoreapp2.2\DatosCore.pdb
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\ServiciosRepositorio\bin\Debug\netcoreapp2.2\DTOs.pdb
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\ServiciosRepositorio\obj\Debug\netcoreapp2.2\ServiciosRepositorio.csprojAssemblyReference.cache
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\ServiciosRepositorio\obj\Debug\netcoreapp2.2\ServiciosRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\ServiciosRepositorio\obj\Debug\netcoreapp2.2\ServiciosRepositorio.AssemblyInfoInputs.cache
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\ServiciosRepositorio\obj\Debug\netcoreapp2.2\ServiciosRepositorio.AssemblyInfo.cs
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\ServiciosRepositorio\obj\Debug\netcoreapp2.2\ServiciosRepositorio.csproj.CopyComplete

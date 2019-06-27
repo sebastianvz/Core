@@ -1,0 +1,8 @@
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\DTOs\bin\Debug\netcoreapp2.2\DTOs.deps.json
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\DTOs\bin\Debug\netcoreapp2.2\DTOs.dll
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\DTOs\bin\Debug\netcoreapp2.2\DTOs.pdb
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\DTOs\obj\Debug\netcoreapp2.2\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\DTOs\obj\Debug\netcoreapp2.2\DTOs.AssemblyInfoInputs.cache
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\DTOs\obj\Debug\netcoreapp2.2\DTOs.AssemblyInfo.cs
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\DTOs\obj\Debug\netcoreapp2.2\DTOs.dll
+C:\Users\Desrrollo2Matipos\Source\Repos\DigitalPersonaEFCore\DTOs\obj\Debug\netcoreapp2.2\DTOs.pdb
