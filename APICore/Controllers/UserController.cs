@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
+using DTOs;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Reglas;
@@ -44,8 +45,9 @@ namespace APICore.Controllers
 
         // POST: api/User
         [HttpPost]
-        public void Post([FromBody] string value)
+        public void Post([FromBody] userDTO user)
         {
+            _rule.Save(user);
         }
 
         // PUT: api/User/5

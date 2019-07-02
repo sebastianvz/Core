@@ -16,6 +16,7 @@ namespace Middelware
             service.AddDbContext<TestEFCoreContext>();
 
             service.AddScoped<IuserService, userService>();
+            service.AddScoped<IpersonService, personService>();
             service.AddScoped<IUserRule, UserRule>();
             service.AddScoped<IInclusion, Inclusion>();
             service.AddScoped<IUserRule, UserRule>();

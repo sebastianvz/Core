@@ -14,6 +14,7 @@ namespace Middelware
             {
                 //inversion de control
                 config.CreateMap<User, userDTO>().ReverseMap();
+                config.CreateMap<Person, personDTO>().ReverseMap();
             });
         }
     }
