@@ -20,6 +20,8 @@ namespace Middelware
             service.AddScoped<IUserRule, UserRule>();
             service.AddScoped<IInclusion, Inclusion>();
             service.AddScoped<IUserRule, UserRule>();
+            service.AddScoped<IAutorizationService, AutorizationService>();
+            service.AddScoped<IAuthorizationRule, AuthorizationRule>();
 
             return service;
         }

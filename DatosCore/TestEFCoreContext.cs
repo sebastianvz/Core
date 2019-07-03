@@ -2,29 +2,32 @@
 using DatosCore.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.Extensions.Configuration;
 
 namespace DatosCore
 {
     public partial class TestEFCoreContext : DbContext
     {
+        private readonly IConfiguration _configuration;
+
         public TestEFCoreContext()
         {
         }
 
-        public TestEFCoreContext(DbContextOptions<TestEFCoreContext> options)
+        public TestEFCoreContext(DbContextOptions<TestEFCoreContext> options, IConfiguration _configuration)
             : base(options)
         {
+            this._configuration = _configuration;
         }
 
-        public virtual DbSet<Person> Person { get; set; }
-        public virtual DbSet<User> User { get; set; }
+        public DbSet<Person> Person { get; set; }
+        public DbSet<User> User { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
             {
-//#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Server=DESARROLLO2-PC\\MSSQL;Database=TestEFCore;Trusted_Connection=True;User Id=sebas; Password=sebas;");
+                optionsBuilder.UseSqlServer(_configuration["db"]);
             }
         }
 

@@ -4,12 +4,14 @@ using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
 using DTOs;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Reglas;
 
 namespace APICore.Controllers
 {
+    //[Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class UserController : ControllerBase
